@@ -7,5 +7,5 @@ sphinx_rtd_theme
 scipy
 memory_profiler
 pytest
-tensorflow~=2.4.0
+tensorflow
 more_itertools
